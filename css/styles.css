@@ -98,6 +98,10 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #ef8172;
 }
 
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
 
 .testimonials-heading {
     font-size: 3rem;
